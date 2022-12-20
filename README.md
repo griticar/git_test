@@ -1,3 +1,3 @@
 # git_test
-my first GitHub repos
-Hello
+My first GitHub repos !
+Hello !
